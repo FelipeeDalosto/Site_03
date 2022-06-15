@@ -1,0 +1,98 @@
+#druid{
+    border: 1PX outset black;
+    width: 280px;
+    height: 350px;
+    float: left;
+    margin: 10px;
+    backdrop-filter: blur(6px) saturate(150%);
+    background-color: rgb(255, 255, 255, 0.5) ;
+    color: black;
+}
+#druid:hover{
+    border: 8px outset green;
+    border-radius: 10px;
+}
+#kina{
+    border: 1PX outset black;
+    width: 280px;
+    height: 350px;
+    float: left;
+    margin: 10px;
+    backdrop-filter: blur(6px) saturate(150%);
+    background-color: rgb(255, 255, 255, 0.5) ;
+    color: black;
+}
+#kina:hover{
+    border: 8px outset rgb(0, 0, 255);
+    border-radius: 10px;
+}
+#pala{
+    border: 1PX outset black;
+    width: 280px;
+    height: 350px;
+    float: left;
+    margin: 10px;
+    backdrop-filter: blur(6px) saturate(150%);
+    background-color: rgb(255, 255, 255, 0.5) ;
+    color: black;
+}
+#pala:hover{
+    border: 8px outset rgb(251, 255, 0);
+    border-radius: 10px;
+}
+#sorc{
+    border: 1PX outset black;
+    width: 280px;
+    height: 350px;
+    float: left;
+    margin: 10px;
+    backdrop-filter: blur(6px) saturate(150%);
+    background-color: rgb(255, 255, 255, 0.5) ;
+    color: black;
+}
+#sorc:hover{
+    border: 8px outset rgb(115, 1, 138);
+    border-radius: 10px;
+}
+h2{
+    border: 1px outset black;
+    text-align: center;			
+}
+img{
+    float: left;
+}
+body{
+    background-color: grey;
+}
+#galeria{
+    border: 1PX outset black;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 10px;
+    backdrop-filter: blur(6px) saturate(150%);
+    background-color: rgb(255, 255, 255, 0.5) ;
+    color: black; 
+    margin-left: 33px;
+}
+#galeria:hover{
+    border: 1px outset green;
+    border-radius: 10px;
+}
+#desc{
+    text-align: center;
+    font-family: arial;
+    margin-top: 170px;
+    width: 100%;
+}
+#galeria_f{
+    border: 1PX outset black;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 10px;
+    backdrop-filter: blur(6px) saturate(150%);
+    background-color: rgb(255, 255, 255, 0.5) ;
+    color: black; 
+    margin-left: 33px;
+}
